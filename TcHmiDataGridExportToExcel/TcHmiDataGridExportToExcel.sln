@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "TcHmiDataGridExportToExcel", "TcHmiDataGridExportToExcel\TcHmiDataGridExportToExcel.hmiproj", "{08418D0A-999D-4E7C-A707-259D6B0830F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08418D0A-999D-4E7C-A707-259D6B0830F8}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{08418D0A-999D-4E7C-A707-259D6B0830F8}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{08418D0A-999D-4E7C-A707-259D6B0830F8}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{08418D0A-999D-4E7C-A707-259D6B0830F8}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184C25DF-82A3-4BB7-9732-EC656BB3AF47}
+	EndGlobalSection
+EndGlobal
