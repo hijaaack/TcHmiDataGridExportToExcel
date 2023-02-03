@@ -14,9 +14,10 @@ in perpetuity.
 
 ## TcHmiDataGridExportToExcel
 
-Sample project on how to export your DataGrid data to an excel file that you can download on the client-side. 
+Sample project on how to EXPORT your DataGrid data to an excel file that you can download on the client-side. 
+Sample project on how you can IMPORT your excel file to the DataGrid.
 
-![enter image description here](https://user-images.githubusercontent.com/75740551/216020796-9717e241-4386-49c4-8a24-55daf3816fa5.gif)
+![enter image description here](https://user-images.githubusercontent.com/75740551/216548424-eb17fc84-4654-4eee-ae13-4c6128d7d130.GIF)
  
 Sources used:
 
