@@ -36,7 +36,7 @@
                     sheet.addRow({
                         ProductName: List[i].ProductName,
                         Quality: List[i].Quality,
-                        Value: List[i].Quality,
+                        Value: List[i].Value,
                         Verified: List[i].Verified
                     });
                 }

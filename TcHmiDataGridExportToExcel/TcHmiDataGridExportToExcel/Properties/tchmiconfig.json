@@ -63,6 +63,11 @@
       "name": "JS/ExportListToExcel.js",
       "description": "",
       "type": "JavaScript"
+    },
+    {
+      "name": "JS/ImportExcelFileToDataGrid.js",
+      "description": "",
+      "type": "JavaScript"
     }
   ],
   "userControls": [],
